@@ -1,0 +1,61 @@
+
+body   {  background-image: linear-gradient(to left, red , black);}
+
+body {padding-left: 0pc;
+  padding-right: 24pc;
+}
+
+body .topnav{
+    margin-left:475px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: inherit;
+    letter-spacing: 2px;
+    font-family: 'Ramabhadra', sans-serif;
+    font-style: bold;
+   }
+
+  .topnav {
+    overflow: hidden;
+    background-color:;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 30px 100px;
+    text-decoration: none;
+    font-size: 30px;
+
+
+  }
+
+  {
+    box-sizing: border-box;
+  }
+  
+  img {
+    vertical-align: middle;
+  }
+
+  body .Courses {text-align: center;}
+  body .Courses { padding: 10px;
+                  margin: 10px
+                }
+body .Courses {font-family: 'Quando', serif;
+              color: lavender;
+              font-size: 30px;
+              }
+
+body .More {text-align: center;}
+body .More { padding: 10px;
+                margin: 10px
+              }
+body .More {font-family: 'Quando', serif;
+               color: lavender;
+              font-size: 30px;
+                          }
+
+
+  
